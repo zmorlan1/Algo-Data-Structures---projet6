@@ -210,7 +210,7 @@ public class ArraySort2 {
     }// End partition
 //*****************************************************************************  
     /**
-    * Method that sorts the first middle and last entry by acending order
+    * ALTERNATE Method that sorts the first middle and last entry by acending order
     * @param T [] array an array storing some sort of data type
     * @param int first the position of the first entry of the array 
     * @param int last the position of the last entry of the array
